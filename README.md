@@ -11,9 +11,12 @@ and a bias term. The output value represents the result of the neural network's 
 
 - Weights in Neural Networks
     - Weights in neural network determine the importance of each input in influencing the final output. They operate
-      by finding the correlation between the inputs to help get the best output
+      by finding the correlation between the inputs to help get the best output.
+    - Every neuron has its own unique weight
 
 - Bias in Neural Networks
     - Allows the neural network to fit more complex relationships between inputs and outputs. In other words helps
       provide a degree of freedom for the model to fine tune the predictions and get a better overall performance
+    - Every neuron has its one bias. Not bias per weight
+      
     
